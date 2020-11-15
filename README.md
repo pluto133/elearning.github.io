@@ -1,18 +1,11 @@
+|--
+|  |--
+
 # Markdown——入门指南 
 
 >https://www.jianshu.com/p/1e402922ee32
 
-```flow
-st=>start: Start
-e=>end: End
-op=>operation: 我的操作
-cond=>condition: 确认？
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
+ 
 | 左对齐 | 右对齐 | 居中对齐 |
 | :-----| ----: | :----: |
 | 单元格 | 单元格 | 单元格 |
