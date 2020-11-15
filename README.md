@@ -17,7 +17,8 @@ Markdown 的基本语法：![Markdown 的基本语法](http://ww3.sinaimg.cn/lar
 
 链接为：[Link](https://www.jianshu.com/)
 
-```mermaid
+```flow
+mermaid
 graph TD
     id[带文本的矩形]
     id4(带文本的圆角矩形)
