@@ -17,12 +17,6 @@ Markdown 的基本语法：![Markdown 的基本语法](http://ww3.sinaimg.cn/lar
 
 链接为：[Link](https://www.jianshu.com/)
  
-```flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-&```
+mermaid
+graph TD
+   A --> B
