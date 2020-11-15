@@ -1,11 +1,6 @@
 # Markdown——入门指南 
 
 >https://www.jianshu.com/p/1e402922ee32
-```sequence
-张三->李四: 嘿，小四儿, 写博客了没?
-Note right of 李四: 李四愣了一下，说：
-李四-->张三: 忙得吐血，哪有时间写。
-```
 
 ```flow
 st=>start: 开始
@@ -30,13 +25,3 @@ cond(no)->op
 Markdown 的基本语法：![Markdown 的基本语法](http://ww3.sinaimg.cn/large/6aee7dbbgw1effgmnpgqlj210j0us44j.jpg)
 
 链接为：[Link](https://www.jianshu.com/)
-
-```flow
-mermaid
-graph TD
-    id[带文本的矩形]
-    id4(带文本的圆角矩形)
-    id3>带文本的不对称的矩形]
-    id1{带文本的菱形}
-    id2((带文本的圆形))
-```
