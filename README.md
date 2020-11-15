@@ -3,8 +3,8 @@
 >https://www.jianshu.com/p/1e402922ee32
 
 ```flow
-st=>start: 开始
-e=>end: 结束
+st=>start: Start
+e=>end: End
 op=>operation: 我的操作
 cond=>condition: 确认？
 
