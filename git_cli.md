@@ -38,4 +38,6 @@ Warning: Permanently added 'github.com,20.205.243.166' (ECDSA) to the list of kn
 Hi pluto133! You've successfully authenticated, but GitHub does not provide shell access.
 
 ```
-[Git使用ssh协议配置Github远程仓库避免踩坑指南（Windows环境）](http://t.zoukankan.com/hejing195-p-14699939.html)
+[Git使用ssh协议配置Github远程仓库避免踩坑指南（Windows环境）
+
+[](ttp://t.zoukankan.com/hejing195-p-14699939.html)
