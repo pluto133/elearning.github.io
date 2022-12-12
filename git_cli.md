@@ -40,4 +40,4 @@ Hi pluto133! You've successfully authenticated, but GitHub does not provide shel
 ```
 [Git使用ssh协议配置Github远程仓库避免踩坑指南（Windows环境）
 
-[](ttp://t.zoukankan.com/hejing195-p-14699939.html)
+[link](ttp://t.zoukankan.com/hejing195-p-14699939.html)
